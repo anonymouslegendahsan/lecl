@@ -22,8 +22,8 @@ git clone https://github.com/anonymouslegendahsan/lecl.git
 
 ls
 
-cd ahsan
+cd lecl
 
 ls
 
-python2 ahsan.py
+python ahsan.py
